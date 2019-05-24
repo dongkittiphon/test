@@ -1,4 +1,7 @@
-﻿##ไฟล์ CMU_Transit.pbix
+Travel Data Analytics to Improve Smart CMU Transit System
+===
+
+ ##ไฟล์ CMU_Transit.pbix
 	เป็นไฟล์แสดงผลการ Visualization ด้วยโปรแกรม power bi
 
 ##ไฟล์ getDataByDayOfWeek.ipynb
